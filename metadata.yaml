@@ -1,0 +1,32 @@
+_repo: Angels-and-Ministers-and-Other-Victorian-Plays_11020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Bunny, Benjamin
+    - Housman, Lawrence
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Housman
+description: pt. I. Angels and ministers.--Pt. II. Possession.--Part III. Dethronements.
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Gladstone, W. E. (William Ewart), 1809-1898 -- Drama'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901 -- Drama'
+- !lcsh 'Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881 -- Drama'
+- GITenberg
+tableOfContents: Angels and ministers -- Possession -- Dethronements.
+title: Angels and Ministers, and Other Victorian Plays
+url: http://www.gutenberg.org/ebooks/11020
